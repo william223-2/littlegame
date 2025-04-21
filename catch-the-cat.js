@@ -747,7 +747,7 @@ default = i
 		s = function(t) {
 			function e(e) {
 				var n = t.call(this, e, 0, 0, i.
-			default ("重置"), {}) || this;
+			default ("再来一次？"), {}) || this;
 				n.setColor("#000000");
 				var o = e.r;
 				n.setFontSize(o), n.setPadding(o, o, o, o), n.setPosition(0, e.game.canvas.height), n.setOrigin(0, 1);
